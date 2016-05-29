@@ -6,4 +6,4 @@ Example of usage
   $.keyboard.on("CTRL+34",function(){
     alert("Catched CTRL+PAGEDOWN");
   },true);
-```https://github.com/jirkaz90/jQuery.keyboard
+```
